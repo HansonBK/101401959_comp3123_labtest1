@@ -1,0 +1,15 @@
+{
+  "name": "101401959_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "COMP3123 Lab Test 1 (ES6 + Node.js)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "q1": "node ./src/q1/lowerCaseWords.js",
+    "q2": "node ./src/q2/callbacks.js",
+    "add-logs": "node ./src/q3/add.js",
+    "remove-logs": "node ./src/q3/remove.js"
+  },
+  "author": "Hussein Bani Khaled (101401959)",
+  "license": "UNLICENSED"
+}
